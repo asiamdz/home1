@@ -1,19 +1,29 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/logo.jpg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: Office xxxxx. National Higher School of Mathematics, P.O.Box 75, Mahelma
+      16093, Sidi Abdellah (Algiers), Algeria.
+  - heading: Email
+    text: asiam.soc.dz@gmail.com
 ---
+Join the Mathematics Society and Be Part of a Vibrant Community!
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Are you passionate about mathematics and its applications? Whether you're a researcher or professional, ASIAM invites you to join a network of like-minded individuals dedicated to advancing and sharing the beauty of mathematics.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+As a member, you’ll gain access to:
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+🔹 Exclusive workshops, seminars, and scientific events.
+
+🔹 Networking opportunities with experts in the field.
+
+🔹 Resources to support your research and professional growth.
+
+🔹 A platform to collaborate, share ideas, and inspire innovation.
+
+Together, we can explore the infinite possibilities that mathematics offers and make an impact in academia, industry, and beyond.
+
+Become a member today and contribute to building a thriving mathematical community!
+
+Membership form:

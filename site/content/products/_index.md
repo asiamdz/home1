@@ -4,34 +4,23 @@ type: products
 image: img/portal_math_banner_background_ka.jpg
 intro:
   heading: What we offer
-  description: Kaldi is the ultimate spot for coffee lovers who want to learn
-    about their java’s origin and support the farmers that grew it. We take
-    coffee production, roasting and brewing seriously and we’re glad to pass
-    that knowledge to anyone.
+  description: xxx
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: img/logo.jpg
+      text: |
+        We x
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ASIAM
+  description: "We "
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: img/about-direct-sourcing.jpg
+    alt: A close-up of a
+    image: img/logo.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: "A green "
+    image: img/logo.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: C
+    image: img/logo.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was

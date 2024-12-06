@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: About us
 logo: img/logo.jpg
 contact_entries:
   - heading: Location

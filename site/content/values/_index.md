@@ -1,6 +1,6 @@
 ---
 title: Conferences & Events
-image: /img/about-jumbotron.jpg
+image: img/portal_math_banner_background_ka.jpg
 values:
   - heading: Mathematics and Remote Sensing
     text: |

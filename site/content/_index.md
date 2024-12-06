@@ -1,6 +1,6 @@
 ---
-title: "I            "
-subtitle: M
+title: "            "
+subtitle: " "
 image: img/asiam.png
 blurb:
   heading: What is ASIAM?

@@ -1,9 +1,9 @@
 ---
-title: News
+title: News!
 type: products
 image: img/portal_math_banner_background_ka.jpg
 intro:
-  heading: What we offer
+  heading: You can find ...
   description: xxx
   blurbs:
     - image: img/logo.jpg
@@ -11,7 +11,7 @@ intro:
         We x
 main:
   heading: ASIAM
-  description: "We "
+  description: We sss
   image1:
     alt: A close-up of a
     image: img/logo.jpg

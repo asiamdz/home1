@@ -1,7 +1,7 @@
 ---
 title: Conferences & Events
 image: img/portal_math_banner_background_ka.jpg
-values:
+confs:
   - heading: Mathematics and Remote Sensing
     text: |
       We 

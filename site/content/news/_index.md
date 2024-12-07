@@ -10,18 +10,7 @@ intro:
         in 2024 with the organization and participation in some scientific
         conferences. '
       image: img/logo.jpg
-main:
-  heading: ASIAM
-  description: We sss
-  image1:
-    alt: A close-up of a
-    image: img/logo.jpg
-  image2:
-    alt: "A green "
-    image: img/logo.jpg
-  image3:
-    alt: C
-    image: img/logo.jpg
+
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was

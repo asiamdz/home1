@@ -5,28 +5,11 @@ image: img/portal_math_banner_background_ka.jpg
 intro:
   heading: You can find ...
   description: xxx
-  blurbs:
-    - text: 'ASIAM was "officially" born in November 2023! It started its activities
+
+blurbs:
+   - text: 'ASIAM was "officially" born in November 2023! It started its activities
         in 2024 with the organization and participation in some scientific
         conferences. '
       image: img/logo.jpg
 
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: "50"
 ---

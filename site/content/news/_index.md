@@ -9,6 +9,7 @@ intro:
     - image: img/logo.jpg
       text: |
         We x
+<!---
 main:
   heading: ASIAM
   description: We sss
@@ -21,6 +22,7 @@ main:
   image3:
     alt: C
     image: img/logo.jpg
+
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -39,4 +41,5 @@ pricing:
         - One or two varieties of beans
       plan: Small
       price: "50"
+    -->
 ---

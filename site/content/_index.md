@@ -11,8 +11,8 @@ blurb:
     mathematicians, scientists, and industry professionals to solve real-world
     problems.
 intro:
-  heading: " "
-  text: " "
+  heading: " News"
+  text: " sssssss "
 news: []
 confs:
   heading: Conferences & Events

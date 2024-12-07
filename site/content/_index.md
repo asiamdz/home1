@@ -14,7 +14,7 @@ intro:
   heading: " "
   text: " "
 news: []
-confs: 
-  heading: Conferences
+confs:
+  heading: Conferences & Events
   text: xxx
 ---

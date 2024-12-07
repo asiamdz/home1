@@ -12,7 +12,14 @@ blurb:
     problems.
 intro:
   heading: " News"
-  text: " sssssss "
+  text: Stay updated with the latest in applied mathematics! This section
+    highlights recent discoveries, innovative research, upcoming conferences,
+    workshops, and other events in the field. Whether it's breakthroughs in
+    modeling, advancements in numerical methods, or the application of
+    mathematics in technology, science, and industry, you'll find all the
+    relevant news here. Perfect for students, researchers, and professionals
+    looking to stay informed about trends and opportunities in applied
+    mathematics.
 news: []
 confs:
   heading: Conferences & Events

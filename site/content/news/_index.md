@@ -1,6 +1,6 @@
 ---
 title: News!
-type: products
+type: news
 image: img/portal_math_banner_background_ka.jpg
 intro:
   heading: You can find ...

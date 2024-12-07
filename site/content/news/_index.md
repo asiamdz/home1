@@ -6,10 +6,10 @@ intro:
   heading: You can find ...
   description: xxx
   blurbs:
-    - image: img/logo.jpg
-      text: |
-        We x
-
+    - text: 'ASIAM was "officially" born in November 2023! It started its activities
+        in 2024 with the organization and participation in some scientific
+        conferences. '
+      image: img/logo.jpg
 main:
   heading: ASIAM
   description: We sss
@@ -22,7 +22,6 @@ main:
   image3:
     alt: C
     image: img/logo.jpg
-
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was

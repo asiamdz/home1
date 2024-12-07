@@ -23,5 +23,10 @@ intro:
 news: []
 confs:
   heading: Conferences & Events
-  text: xxx
+  text: Discover the latest conferences, workshops, and activities organized or
+    co-organized by the Algerian Society of Industrial and Applied Mathematics
+    (ASIAM). This section provides updates on upcoming events, highlights from
+    past gatherings, and opportunities to engage with the applied mathematics
+    community. Stay connected with ASIAM’s initiatives and be part of advancing
+    industrial and applied mathematics through collaboration and innovation.
 ---

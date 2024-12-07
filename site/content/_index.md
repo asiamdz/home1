@@ -15,6 +15,6 @@ intro:
   text: " "
 news: []
 values:
-  heading: Objectives
+  heading: Conferences
   text: xxx
 ---

@@ -13,7 +13,7 @@ blurb:
 intro:
   heading: " "
   text: " "
-products: []
+news: []
 values:
   heading: Objectives
   text: xxx
